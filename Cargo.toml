@@ -1,6 +1,6 @@
 [package]
 name = "openapi"
-version = "2020-09-14_1.64.13"
+version = "202009141.64.13"
 authors = ["OpenAPI Generator team and contributors"]
 edition = "2018"
 
